@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059508357021",
+    "project_id": "acao-e-reacao",
+    "storage_bucket": "acao-e-reacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059508357021:android:6df9aff4cb8eae53bf1174",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059508357021-aqt24vga7mfq7ag8p1nkuhrfqh1749rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f51377c43e704951188889ff27828cd09703a74d"
+          }
+        },
+        {
+          "client_id": "1059508357021-i6mttgg40cahblk7cfk1kuqr9doj2ube.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzqOhoqJeHoJChDR8MzLDqs8KlfgpOQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059508357021-i6mttgg40cahblk7cfk1kuqr9doj2ube.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
